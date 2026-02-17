@@ -20,9 +20,8 @@ Este projeto foi desenvolvido durante a **Imersão Dados com Python da Alura**. 
 
 -------------------------------------------------------------------------------------------------
 
-[📝EN]
-
 # 📊 Salary Data Analysis Dashboard - Python Immersion
+[📝EN]
 
 This project was developed during **Alura's Python Data Immersion**. The application consists of an interactive dashboard that analyzes salary data in the technology field, allowing the visualization of trends and insights through dynamic filters.
 
