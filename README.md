@@ -16,9 +16,3 @@ Este projeto foi desenvolvido durante a **Imersão Dados com Python da Alura**. 
 - Filtros interativos para exploração de salários por cargo, nível ou tecnologia.
 - Visualizações gráficas (Histogramas, Boxplots e Gráficos de Barras).
 - Interface web amigável e responsiva.
-
-## 📦 Como executar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
