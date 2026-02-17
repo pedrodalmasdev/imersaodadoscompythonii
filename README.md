@@ -18,6 +18,8 @@ Este projeto foi desenvolvido durante a **Imersão Dados com Python da Alura**. 
 - Visualizações gráficas (Histogramas, Boxplots e Gráficos de Barras).
 - Interface web amigável e responsiva.
 
+-------------------------------------------------------------------------------------------------
+
 [📝EN]
 
 # 📊 Salary Data Analysis Dashboard - Python Immersion
