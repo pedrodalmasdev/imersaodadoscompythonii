@@ -1,4 +1,4 @@
-#Dashboard de Análise de Dados Salariais - Imersão Python 
+### Dashboard de Análise de Dados Salariais - Imersão Python 
 [PT-BR]
 
 Este projeto foi desenvolvido durante a **Imersão Dados com Python da Alura**. A aplicação consiste em um dashboard interativo que analisa dados salariais na área de tecnologia, permitindo visualizar tendências e insights através de filtros dinâmicos.
